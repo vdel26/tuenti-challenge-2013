@@ -1,6 +1,7 @@
+#!/bin/env python
+
 import fileinput
 from string import *
-import sys
 
 
 class Investment(object):
